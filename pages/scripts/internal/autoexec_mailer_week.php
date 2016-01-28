@@ -5,8 +5,8 @@ require_once ('/var/www/html/pages/scripts/class/utils.php');
 require_once ('/var/www/html/pages/scripts/vendor/autoload.php');
 require_once ('/var/www/html/pages/scripts/class/tax.php');
 
-define('GUSER', 'etmdevelopment42@gmail.com'); // GMail username
-define('GPWD', '6ff32apang'); // GMail password's
+define('GUSER', ''); // GMail username
+define('GPWD', ''); // GMail password's
 
     $link = new link();
     $con = $link->connect();
