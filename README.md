@@ -94,7 +94,7 @@ The database is fully MySQL compatible. Unfortunately I can't guarantee much els
 
 It's recommended to create a different user with reduced permissions when using the application (i.e not root), so a malicious user is unable to gain access to critical commands.
 
-The database provided here already contains every item, NPC faction, NPC corporation, player made outpost, solar system and region in Eve Online as of 28th January. Further updates will require updating these tables at the risk of breaking the entire application. The database schema I use is different from Eve Online's official SDE (though it obviously contains all the relevant data).
+The database provided here already contains every item, NPC faction, NPC corporation, player made outpost, solar system and region in Eve Online as of 28th January. Further updates will require updating these tables. The database schema I use is different from Eve Online's official SDE (though it obviously contains all the relevant data).
 
 The database file contains a stored procedure (calendar dates) which needs to be initialized before starting up the program.
 It also contains some views which aren't used by the main program but may prove to be useful for testing purposes.
