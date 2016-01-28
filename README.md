@@ -27,11 +27,9 @@ ETM is a web based, lightweight profit tracker and asset manager for the popular
 
 -A working e-mail account
 
--Minimum of 1GB MB RAM for >200 users (less also works, but you need to fiddle a lot more with MySQL's memory useage and swap space)
+-Access to Eve Online's Static Data Export (SDE) and Image export collection (or you can change image links towards Eve online's servers instead)
 
--An SSD disk is highly recommended due to the heavy I/O nature of this application
-
--Access to Eve Online's Static Data Export (SDE) and Image export collection
+-An SSD disk is recommended due to the heavy I/O nature of this application
 
 #Dependencies:
 -Apache 2.2
