@@ -1,0 +1,13 @@
+vendor
+nbproject
+.DS_Store
+.idea
+build/api/
+build/code-browser/
+build/coverage/
+build/phpdox/
+cache.properties
+atlassian-ide-plugin.xml
+.buildpath
+.project
+.settings

@@ -1,0 +1,5 @@
+Order Deny,Allow
+Deny from All
+Allow from 85.247.66.95
+Allow from 2001:8a0:78ea:1701:dc97:ddef:baff:6a27
+Allow from 89.109.65.114

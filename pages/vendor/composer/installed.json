@@ -1,0 +1,93 @@
+[
+    {
+        "name": "psr/log",
+        "version": "1.0.0",
+        "version_normalized": "1.0.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/php-fig/log.git",
+            "reference": "fe0936ee26643249e916849d48e3a51d5f5e278b"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/php-fig/log/zipball/fe0936ee26643249e916849d48e3a51d5f5e278b",
+            "reference": "fe0936ee26643249e916849d48e3a51d5f5e278b",
+            "shasum": ""
+        },
+        "time": "2012-12-21 11:40:51",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-0": {
+                "Psr\\Log\\": ""
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "PHP-FIG",
+                "homepage": "http://www.php-fig.org/"
+            }
+        ],
+        "description": "Common interface for logging libraries",
+        "keywords": [
+            "log",
+            "psr",
+            "psr-3"
+        ]
+    },
+    {
+        "name": "3rdpartyeve/phealng",
+        "version": "2.2.1",
+        "version_normalized": "2.2.1.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/3rdpartyeve/phealng.git",
+            "reference": "0c8a63cf2263e60e84014a402ad249402e2596cc"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/3rdpartyeve/phealng/zipball/0c8a63cf2263e60e84014a402ad249402e2596cc",
+            "reference": "0c8a63cf2263e60e84014a402ad249402e2596cc",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.4.0",
+            "psr/log": "1.0.0"
+        },
+        "time": "2015-06-10 17:00:41",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Pheal\\": "lib/Pheal/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Peter Petermann",
+                "email": "ppetermann80@googlemail.com",
+                "homepage": "http://devedge.eu"
+            },
+            {
+                "name": "Wollari",
+                "homepage": "http://evemaps.dotlan.net/"
+            }
+        ],
+        "description": "PHP Eve Api Library, a simple PHP lib to access the EVE Online API",
+        "homepage": "https://github.com/3rdpartyeve/phealng",
+        "keywords": [
+            "EVE API",
+            "EVE Online",
+            "Pheal",
+            "PhealNG"
+        ]
+    }
+]
