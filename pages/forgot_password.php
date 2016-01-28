@@ -7,8 +7,8 @@ require_once ('scripts/class/content.php');
     $link = new link();
     $con = $link->connect();
 
-    define('GUSER', 'etmdevelopment42@gmail.com'); // GMail username
-    define('GPWD', '6ff32apang'); // GMail password's
+    define('GUSER', ''); // GMail username
+    define('GPWD', ''); // GMail password's
 
     $title = "Forgot password";
     $content = new content();
