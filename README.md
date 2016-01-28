@@ -40,7 +40,7 @@ ETM is a web based, lightweight profit tracker and asset manager for the popular
 
 -Bootstrap 3.3 (HTML 5 and CSS 3)
 
--jQuery 2.3 with datatables plugin
+-jQuery 1.3 with datatables plugin
 
 -PHEALNG library (for web requests and local caching)
 
