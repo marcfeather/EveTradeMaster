@@ -102,12 +102,12 @@ It also contains some views which aren't used by the main program but may prove 
 #Warning
 This product is still in beta and has several features comming in the near future.
 
-Most of the code is still in development state and is pending refactoring in some classes.
+Most of the code is still in development state and is pending refactoring in some classes. There is lots to be done for this to be a real release still, but this is currently my work in progress.
 
 #License
 All logos and images related to Eve Online are copyrighted and property of CCP Games. I do not take any ownership for these.
 
 It also used multiple 3rd party libraries which have their own licensing.
 
-There is lots to be done for this to be a real release still, but this is currently my work in progress.
+
 
